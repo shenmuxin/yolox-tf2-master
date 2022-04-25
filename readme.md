@@ -41,7 +41,8 @@ PySide2 == 5.15
 ---
 1. 使用predict.py进行模型推断
 2. 使用PyQt/Detection_QT.py进行打包程序运行
-3. 效果如下：<img width="448" alt="image" src="https://user-images.githubusercontent.com/87429023/165014136-14d8895d-a037-4d7c-a657-24b17b5cc264.png">
+3. 效果如下：
+<img width="448" alt="image" src="https://user-images.githubusercontent.com/87429023/165014136-14d8895d-a037-4d7c-a657-24b17b5cc264.png">
 
 
 ### 六、使用说明
