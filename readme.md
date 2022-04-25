@@ -52,5 +52,6 @@ PySide2 == 5.15
 ---
 ### 七、数据集下载
 自制数据集[MaskFace数据集](https://pan.baidu.com/s/1Y3gv9vVZdG7fwwxvgLhPvQ) 提取码：ipyn
+
 自制数据集包含三个类别：1、正确佩戴口罩，2、错误佩戴口罩，3、未佩戴口罩。
 数据集的组成如下所示：
