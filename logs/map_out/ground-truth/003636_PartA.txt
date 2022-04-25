@@ -1,0 +1,5 @@
+with_mask 444 444 501 521
+with_mask 438 93 567 272
+without_mask 9 198 82 285
+with_mask 112 73 223 225
+with_mask 86 346 285 577

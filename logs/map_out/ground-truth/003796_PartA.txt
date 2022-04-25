@@ -1,0 +1,4 @@
+with_mask 142 762 265 937
+with_mask 508 774 629 941
+with_mask 328 210 441 376
+with_mask 259 1213 371 1358

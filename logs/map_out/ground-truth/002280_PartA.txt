@@ -1,0 +1,1 @@
+without_mask 48 0 150 116

@@ -1,0 +1,1 @@
+without_mask 72 94 225 281

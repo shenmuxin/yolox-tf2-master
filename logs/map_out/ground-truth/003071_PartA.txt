@@ -1,0 +1,2 @@
+without_mask 99 37 147 89
+without_mask 445 189 491 252

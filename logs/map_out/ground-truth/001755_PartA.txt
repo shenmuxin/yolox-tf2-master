@@ -1,0 +1,1 @@
+without_mask 77 21 151 124
