@@ -6,7 +6,8 @@
  * @Date: 2022-04-17 11:03:30
 -->
 
-## 毕业设计-东北大学
+## 演示效果
+[https://www.bilibili.com/video/BV1ba411i7HL/?spm_id_from=333.999.0.0&vd_source=d02fb26eb2345ac42c054db0bb8d8864](https://www.bilibili.com/video/BV1ba411i7HL/?spm_id_from=333.999.0.0&vd_source=d02fb26eb2345ac42c054db0bb8d8864)
 
 **Author: Shen Jiahao**
 ### 一、项目简介
